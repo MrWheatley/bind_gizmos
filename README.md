@@ -1,5 +1,5 @@
 # bind_gizmos
-Allows you to bind a key to cycle between gizmos like translation to rotation or bind them to something like QWE
+Allows you to bind a key to cycle between gizmos like translation to rotation or bind them to something like QWE like Maya or 3ds Max.
 
 
 Here's an example:
